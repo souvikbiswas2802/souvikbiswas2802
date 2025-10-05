@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Souvik+Biswas;Aspiring+Tech+Innovator+%F0%9F%9A%80;Cybersecurity+%2B+Cloud+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</p>
-
 ---
 
 ### 🌟 About Me
