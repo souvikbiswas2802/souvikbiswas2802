@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Souvik+Biswas;Aspiring+Tech+Innovator+%F0%9F%9A%80;Cybersecurity+%2B+Cloud+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
 </h1>
 
----
-
 ### 🌟 About Me
 
 I'm an **IT Undergraduate** passionate about crafting **secure, scalable solutions** in the realms of **software development**, **cloud computing (AWS)**, and **cybersecurity**. I thrive on solving real-world problems with code, creativity, and curiosity.
