@@ -16,7 +16,7 @@ I'm an **IT Undergraduate** passionate about crafting **secure, scalable solutio
 
 - **B.Tech in Information Technology**  
   *B.P. Poddar Institute of Management and Technology (MAKAUT), Kolkata*  
-  *2022–2026* | **CGPA: 7.78** (Till 6th Semester)
+  *2022–2026* | **CGPA: 7.90** (Till 7th Semester)
 
 - **Higher Secondary Education (Science Stream)**  
   *Onda High School (WBCHSE), Bankura*  
